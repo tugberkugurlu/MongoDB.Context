@@ -7,8 +7,5 @@
  
 ## Special Cases
  
-  - Q: What happens when you want to do deletes?
-  - A: Don't use this then.
-  
   - Q: What happens when you want to touch two entities to update per request?
   - A: No, you cannot do this with this concepts. It will fail and will do nothing.
